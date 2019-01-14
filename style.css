@@ -1,0 +1,38 @@
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+p {
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 80px;
+  }
+
+p { 
+    background-color: gray;
+  }
+
+html { 
+    background-color: rgb(106, 100, 161);
+  }
+
+header {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+header {
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+  }
+
+header { 
+    background-color: gray;
